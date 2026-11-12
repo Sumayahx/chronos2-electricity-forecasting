@@ -1,0 +1,7 @@
+{
+    "training_time_minutes": 2.7337193131446837,
+    "peak_training_gpu_memory_gb": 1.411729335784912,
+    "test_inference_time_minutes": 1.5754246791203816,
+    "test_forecast_windows": 52644,
+    "inference_batch_size": 32
+}
